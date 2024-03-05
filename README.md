@@ -37,3 +37,40 @@ Designing the platform with a focus on user experience, with intuitive navigatio
 
 ### Dynamic Collaboration Opportunities
 Promoting collaboration and interaction between freelancers and clients, with features such as project discussions, and milestone tracking.
+
+## Screencaps
+
+### SignUp Page
+![signup pg](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/98df4083-0fdc-4cc6-9e9a-c710eea2faa2)
+
+### Home Page
+![home pg](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/31af99f0-bf19-4b4d-8762-b749a95dfc3b)
+
+### Gigs Page
+![gigs pg](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/bb58a25e-dd3d-4da9-a71f-a550c7f3c307)
+
+### Single Gig Page
+![gig pg](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/9553bff2-a1ca-4171-8b51-d0d5f6c35475)
+
+### Real time communication
+![msgs pg](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/0b6a8a09-aef4-4c90-94b7-61b846958020)
+
+### Messages Page
+![Screenshot 2024-03-04 210737](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/d93c0b94-9727-460c-9902-89472d2eb586)
+
+### Orders Page
+![Screenshot 2024-03-04 210031](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/9e654799-f32b-470d-b503-3e156c080ba7)
+
+### Payments Page
+![Screenshot 2024-03-04 222213](https://github.com/Jyothirmai-123/WorkHive-Freelance-Hub/assets/113755812/51c6b876-3b10-4aad-8101-0bd2f971daae)
+
+## How to Run??
+1. Install NodeJS
+2. SignUp to the mongodb.com and create a database for the project
+3. Go to the project folder directory and open the terminal (preferably gitbash).
+4. Install all the required dependencies and libraries in api and client folders.
+5. Run the 2 terminals parallely for both frontend and backend.
+6. Open api folder(cd api) which is backend of the project and run "yarn start" so that the server starts running.
+7. Open client folder(cd client) which is frontend of the project and run "yarn run dev".
+8. Then you get a link and click on that link to access the project.
+
