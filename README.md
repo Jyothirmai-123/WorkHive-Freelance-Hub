@@ -17,25 +17,25 @@ ExpressJS is a web framework that enables you to design a web application to han
 The database MongoDB is used to store the sign up details, gig details, orders and conversations, etc.
 
 ## Key Features:
-### Secure User Authentication
+### 1. Secure User Authentication
 Implementing robust authentication mechanisms to ensure that user accounts are protected from unauthorized access, using encryption and secure storage techniques.
 
-### Efficient Project Posting
+### 2. Efficient Project Posting
 Enabling users to easily create and post projects, with streamlined workflows and intuitive interfaces to minimize time and effort.
 
-### Real-Time Communication
+### 3. Real-Time Communication
 Facilitating instant messaging and updates between freelancers and clients, enhancing collaboration and project management efficiency.
 
-### Insightful Feedback Mechanism
+### 4. Insightful Feedback Mechanism
 Allowing users to provide feedback and ratings on completed projects, helping to establish credibility and quality standards within the platform.
 
-### Secure Payment Processing
+### 5. Secure Payment Processing
 Ensuring that financial transactions are processed securely, with encryption and compliance with industry standards for payment security.
 
-### Intuitive User Interface
+### 6. Intuitive User Interface
 Designing the platform with a focus on user experience, with intuitive navigation, clear layouts, and responsive design for a seamless experience across devices.
 
-### Dynamic Collaboration Opportunities
+### 7. Dynamic Collaboration Opportunities
 Promoting collaboration and interaction between freelancers and clients, with features such as project discussions, and milestone tracking.
 
 ## Screencaps
@@ -72,5 +72,5 @@ Promoting collaboration and interaction between freelancers and clients, with fe
 5. Run the 2 terminals parallely for both frontend and backend.
 6. Open api folder(cd api) which is backend of the project and run "yarn start" so that the server starts running.
 7. Open client folder(cd client) which is frontend of the project and run "yarn run dev".
-8. Then you get a link and click on that link to access the project.
+8. Now, you get a link and click on that link to access the project.
 
